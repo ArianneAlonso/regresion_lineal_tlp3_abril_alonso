@@ -16,4 +16,4 @@ Learn.
 datos de entrenamiento con los resultados predecidos.
 
 1. crear un entorno virtual
-2. instalar las dependencias: pip install pandas scikit-learn matplotlib numpy 
+2. instalar las dependencias: pip install pandas scikit-learn matplotlib numpy joblib
